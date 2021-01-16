@@ -506,6 +506,8 @@ if __name__ == '__main__':
 
     Linux Bash脚本我不会，你们能用linux肯定会自己编写。
     """
+    import sys
+    sys.path.append('/root/ipython/')
 
     try:
         cu.sendDingMsg("Start realtime sub from sina_l1 progress start now.")
