@@ -31,7 +31,6 @@ from datetime import datetime as dt, timezone, timedelta, date
 import datetime
 import time as timer
 import numba as nb
-import CommonUtils as cu
 import traceback
 
 try:
@@ -508,6 +507,7 @@ if __name__ == '__main__':
     """
     import sys
     sys.path.append('/root/ipython/')
+    import CommonUtils as cu
 
     try:
         cu.sendDingMsg("Start realtime sub from sina_l1 progress start now.")
