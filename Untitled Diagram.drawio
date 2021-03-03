@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T06:41:01.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="y1tJOGRIC8vt1-d2rfhP" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T06:45:59.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="x7ej1oUFTOBOrRj33duf" version="14.4.3" type="github">
   <diagram id="9gijPCrK2XbbSChvlzGk" name="第 1 页">
     <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -29,18 +29,39 @@
           <mxGeometry x="955" y="210" width="10" height="450" as="geometry" />
         </mxCell>
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-52" value="一、申请应用开通" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="50" y="270" width="150" height="30" as="geometry" />
+          <mxGeometry x="50" y="250" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-57" value="推送组织开通消息" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;fontSize=13;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-57" value="2.推送组织开通消息" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="520" y="270" as="sourcePoint" />
             <mxPoint x="720" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-59" value="获取家校通讯录" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;fontSize=13;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-59" value="1.获取家校通讯录" style="html=1;verticalAlign=bottom;startArrow=classic;startFill=1;endArrow=none;startSize=8;fontSize=13;endFill=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="716" y="300" as="sourcePoint" />
-            <mxPoint x="516" y="300" as="targetPoint" />
+            <mxPoint x="716" y="323" as="sourcePoint" />
+            <mxPoint x="516" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-60" value="二、获取家校通讯录" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-61" value="1.申请开通" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="480" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-62" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;dashed=1;labelBackgroundColor=#ffffff;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="738" y="270" width="12" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-65" value="2.创建/更新点餐学生数据" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="738" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="763" y="330" />
+            </Array>
+            <mxPoint x="738" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
