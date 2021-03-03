@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T12:13:48.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="TfbwavDlwUAMUC_qFzI0" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T12:14:38.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="UAoXlcQzAPwXGilDM5wb" version="14.4.3" type="github">
   <diagram id="9gijPCrK2XbbSChvlzGk" name="第 1 页">
     <mxGraphModel dx="1888" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-45" value="点餐服务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=17;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="615" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-46" value="采购平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=17;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-46" value="采购平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=17;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="842" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="675" y="170" width="10" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="905" y="170" width="10" height="450" as="geometry" />
         </mxCell>
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-57" value="2.推送组织开通消息" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;fontSize=13;align=center;" edge="1" parent="1">
