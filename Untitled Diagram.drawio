@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T01:16:05.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="K1Gw2oov73Q4mOaAM_wA" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T01:24:37.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ChT4zK0Yu7e9iy-_Uwbk" version="14.4.3" type="github">
   <diagram id="9gijPCrK2XbbSChvlzGk" name="第 1 页">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1196" dy="721" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,13 +70,13 @@
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-67" value="学校名称、年纪班级、学生、家长、教职工等数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=1;labelBackgroundColor=none;fontSize=8;fontColor=#787878;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="300" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-69" value="&lt;font color=&quot;#000000&quot;&gt;采购商关联&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=8;fontColor=#787878;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#6C8EBF;align=center;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-69" value="&lt;font color=&quot;#000000&quot;&gt;2.学校与采购商绑定&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=8;fontColor=#787878;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#6C8EBF;align=center;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="788" y="424.5" as="sourcePoint" />
             <mxPoint x="998" y="424.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-71" value="创建采购商" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#6C8EBF;fontSize=8;fontColor=#787878;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-71" value="1.创建采购商" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#6C8EBF;fontSize=8;fontColor=#787878;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1015" y="398" as="sourcePoint" />
             <Array as="points">
@@ -85,7 +85,7 @@
             <mxPoint x="1020" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-73" value="点餐开通配置" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#6C8EBF;fontSize=8;fontColor=#787878;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-73" value="3.点餐开通配置" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#6C8EBF;fontSize=8;fontColor=#787878;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="788" y="438" as="sourcePoint" />
             <Array as="points">
@@ -94,7 +94,7 @@
             <mxPoint x="793" y="458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-78" value="发布配餐方案" style="html=1;verticalAlign=bottom;endArrow=block;strokeColor=#82b366;fontSize=12;fontColor=#0D0D0D;fillColor=#d5e8d4;align=center;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-78" value="1.菜肴、套餐管理" style="html=1;verticalAlign=bottom;endArrow=block;strokeColor=#82b366;fontSize=12;fontColor=#0D0D0D;fillColor=#d5e8d4;align=center;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="995" y="493" as="sourcePoint" />
             <mxPoint x="795" y="493" as="targetPoint" />
@@ -114,7 +114,7 @@
             <mxGeometry x="788" y="660" width="140" height="30" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-85" value="点餐" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=12;fontColor=#0D0D0D;fillColor=#d5e8d4;strokeColor=#82b366;align=center;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-85" value="1. 点餐" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=12;fontColor=#0D0D0D;fillColor=#f8cecc;strokeColor=#b85450;align=center;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="327" y="520" as="sourcePoint" />
             <mxPoint x="767" y="521" as="targetPoint" />
@@ -138,13 +138,13 @@
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-92" value="7. 精准采购" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="1031" y="593" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-93" value="食材转换" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;strokeColor=#6c8ebf;fontSize=12;fontColor=#0D0D0D;align=center;fillColor=#dae8fc;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-93" value="1. 食材转换" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;strokeColor=#6c8ebf;fontSize=12;fontColor=#0D0D0D;align=center;fillColor=#dae8fc;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="800" y="615" as="sourcePoint" />
             <mxPoint x="1000" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-94" value="采购下单" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#6c8ebf;fontSize=8;fontColor=#787878;labelBackgroundColor=none;fillColor=#dae8fc;" edge="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-94" value="2.采购下单/收货" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#6c8ebf;fontSize=8;fontColor=#787878;labelBackgroundColor=none;fillColor=#dae8fc;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1015" y="630" as="sourcePoint" />
             <Array as="points">
@@ -162,7 +162,7 @@
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-101" value="1. 申请应用开通" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=17;align=center;" vertex="1" parent="1">
           <mxGeometry x="165" y="220" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-102" value="5.&amp;nbsp;学生/家长选餐" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-102" value="5.&amp;nbsp;学生/家长选餐" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="165" y="500" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-103" value="2.&amp;nbsp;同步家校通讯录" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=17;fillColor=#f8cecc;strokeColor=#B85450;align=center;" vertex="1" parent="1">
@@ -220,6 +220,12 @@
         <mxCell id="6Y1af41Ok9K7a-6xRhIQ-120" value="补扣提醒与说明" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#FF3333;" vertex="1" connectable="0" parent="6Y1af41Ok9K7a-6xRhIQ-118">
           <mxGeometry x="-0.246" y="1" relative="1" as="geometry">
             <mxPoint x="31" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1af41Ok9K7a-6xRhIQ-125" value="2.发布配餐方案" style="html=1;verticalAlign=bottom;endArrow=block;strokeColor=#82b366;fontSize=12;fontColor=#0D0D0D;fillColor=#d5e8d4;align=center;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="996" y="510" as="sourcePoint" />
+            <mxPoint x="796" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
